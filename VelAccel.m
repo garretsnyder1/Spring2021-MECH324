@@ -1,0 +1,1 @@
+function [v,a]=VelAccel(theta2,omega2)
